@@ -1,3 +1,13 @@
+// Day 3: Console
+// Goals
+// Using console for Debugging
+// Tasks
+// 1. Introduction to console
+// Provides a simple debugging console
+// Common methods: console.log(), console.error(), console.warn(), console.time(), console.timeEnd(), console.trace()
+// 2. Use console
+// Create a file named consoleExample.js and use the above methods in your code.
+
 // Start the timer to measure the performance of this function
 console.time("Function Timer");
 

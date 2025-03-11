@@ -1,3 +1,4 @@
+// Day 2: Global Objects
 // Goals
 // Understand and explore Node.js global objects
 // Learn how to use these global objects effectively in your Node.js applications
