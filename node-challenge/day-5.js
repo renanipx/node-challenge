@@ -1,3 +1,11 @@
+// Day 5: NodeJS Timers
+// Goal
+// Use timers in Node.js to execute functions after a delay or repeatedly
+// Tasks
+// Executes a function after a delay using setTimeout()
+// Executes a function repeatedly with a delay between each call using setInterval()
+// Stop a timeout and interval from running using clearTimeout() and clearInterval()
+
 // Execute after a delay
 setTimeout(() => {
     console.log("Executed after 3 seconds");
