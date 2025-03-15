@@ -6,4 +6,5 @@
 // require('./node-challenge/day-4');
 // require('./node-challenge/day-5');
 // require('./node-challenge/day-6');
-require('./node-challenge/day-7');
+// require('./node-challenge/day-7');
+require('./node-challenge/day-8');
